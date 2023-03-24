@@ -1,6 +1,7 @@
 com\portfolio\PortafilioAP\Entity\Experiencia.class
 com\portfolio\PortafilioAP\Entity\HyS.class
 com\portfolio\PortafilioAP\Repository\RExperiencia.class
+com\portfolio\PortafilioAP\WebConfig.class
 com\portfolio\PortafilioAP\Controller\CProyectos.class
 com\portfolio\PortafilioAP\Repository\IPersonaRepository.class
 com\portfolio\PortafilioAP\Dto\dtoPersona.class
